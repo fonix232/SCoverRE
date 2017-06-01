@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Overfør</string>
+    <string name="sview_led_cover_download_feature_summary">Download og installer yderligere funktioner til LED View Cover. Du kan oprette dine egne LED-ikoner og angive dem som dine meddelelsesikoner. Hvis du vil downloade dem senere, skal du gå til Indstillinger > Avancerede funktioner > Tilbehør > LED View Cover, og derefter vælge Download yderligere funktioner.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">Download yderligere funktioner</string>
+</resources>

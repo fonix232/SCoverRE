@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">डाउनलोड</string>
+    <string name="sview_led_cover_download_feature_summary">LED भ्यु कभरका अतिरिक्त सुविधाहरू डाउनलोड गरेर स्थापना गर्नुहोस्। तपाईले आफ्ना LED प्रतिमाहरू सिर्जना गर्न र तिनीहरूलाई आफ्नो सूचना प्रतिमाहरूका रूपमा सेट गर्न सक्नुहुन्छ। तिनीहरूलाई पछि डाउनलोड गर्न, सेटिङहरू > उन्नत सुविधाहरू > सहायक उपकरणहरू > LED भ्यु कभरमा जानुहोस्, त्यसपछि “अतिरिक्त सुविधाहरू डाउनलोड गर्नुहोस्” चयन गर्नुहोस्।</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">अतिरिक्त सुविधाहरू डाउनलोड गर्नुहोस्</string>
+</resources>

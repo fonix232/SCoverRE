@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Télécharger</string>
+    <string name="sview_led_cover_download_feature_summary">"Téléchargez et installez des fonctions supplémentaires pour l'étui avec affichage DEL. Vous pouvez créer vos propres voyants DEL et les définir en tant que voyants de notification. Pour les télécharger ultérieurement, accédez à Paramètres > Fonctions avancées > Accessoires > Étui avec affichage DEL, puis sélectionnez Téléchargement des fonctions supplémentaires."</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">"Téléchargez et installez des fonctions supplémentaires pour l'étui avec affichage DEL. Vous pouvez créer vos propres icônes DEL et les définir en tant qu'icônes de notification. Pour les télécharger ultérieurement, accédez à Paramètres > Accessoires > Étui avec affichage DEL, puis sélectionnez Téléchargement des fonctions supplémentaires."</string>
+    <string name="sview_led_cover_download_feature_title">Téléchargement des fonctions supplémentaires</string>
+</resources>

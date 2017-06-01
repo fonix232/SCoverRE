@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Deskargatu</string>
+    <string name="sview_led_cover_download_feature_summary">Deskargatu eta instalatu LED View Cover eginbide osagarriak. Zeure LED ikonoak sortu eta jakinarazpen ikono gisa ezar ditzakezu. Haiek geroago deskargatzeko, zoaz Ezarpenak > Eginbide aurreratuak > Osagarriak > LED View Cover atalera, eta hautatu Deskargatu eginbide osagarriak.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">Deskargatu eginbide osagarriak</string>
+</resources>

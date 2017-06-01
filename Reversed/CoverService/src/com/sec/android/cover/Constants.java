@@ -1,0 +1,46 @@
+package com.sec.android.cover;
+
+public class Constants {
+    public static final String ACTION_DOWNLOAD_REQUEST_LINK = "com.sec.android.app.applinker.REQUEST_LINK";
+    public static final String ACTION_REMOTE_VIEW_UPDATED = "com.samsung.cover.REMOTEVIEWS_UPDATE";
+    public static final String ACTION_REQUEST_REMOTE_VIEW = "com.samsung.cover.REQUEST_REMOTEVIEWS";
+    public static final int[] CALL_VOLUME_6 = new int[]{2, 5, 8, 11, 14, 15};
+    public static final int[] CALL_VOLUME_8 = new int[]{1, 3, 5, 7, 9, 11, 14, 15};
+    public static final int CRITICAL_BATTERY_THRESHOLD = 5;
+    public static final int DEMO_MODE = 42;
+    public static final String INTENT_ACTION_ALARM_ALERT = "com.samsung.sec.android.clockpackage.alarm.ALARM_ALERT";
+    public static final String INTENT_ACTION_ALARM_START_ALERT = "com.samsung.sec.android.clockpackage.alarm.ALARM_STARTED_IN_ALERT";
+    public static final String INTENT_ACTION_ALARM_STOP_ALERT = "com.samsung.sec.android.clockpackage.alarm.ALARM_STOPPED_IN_ALERT";
+    public static final String INTENT_ACTION_CALENDAR_START = "com.android.calendar.SEND_ALERTINFO_ACTION";
+    public static final String INTENT_ACTION_CALENDAR_STOP = "com.samsung.android.calendar.FINISH_POPUP_ACTION";
+    public static final String INTENT_ACTION_CALL_TIME = "com.sec.android.phone.action.ACTION_CALL_TIME";
+    public static final String INTENT_ACTION_LED_LAMP_NOTI = "com.sec.android.cover.ledcover.action.ACTION_LED_LAMP_NOTI";
+    public static final String INTENT_ACTION_TIMER_START_ALERT = "com.sec.android.app.clockpackage.timer.TIMER_STARTED_IN_ALERT";
+    public static final String INTENT_ACTION_TIMER_STOP_ALERT = "com.sec.android.app.clockpackage.timer.TIMER_STOPPED_IN_ALERT";
+    public static final String KEY_VOICE_RECORDER_START_TIME = "voice_recorder_start_time";
+    public static final String KEY_VOICE_RECORDER_STATUS = "voice_recorder_status";
+    public static final String LCD_COVER_SYSTEM_EVENT_KEY_TYPE_DISABLE_LCD_OFF_BY_COVER = "lcd_off_disabled_by_cover";
+    public static final int LOW_BATTERY_THRESHOLD = 15;
+    public static final String PACKAGE_NAME_GRACELED = "com.samsung.android.app.ledcovergrace";
+    public static final int PRESET_SEC_LED_END = 55;
+    public static final String REMOTE_VIEW_INFO_COUNT = "count";
+    public static final String REMOTE_VIEW_INFO_IS_PLAYING = "isPlaying";
+    public static final String REMOTE_VIEW_INFO_NON_SECURE_ONLY = "non_secure_only";
+    public static final String REMOTE_VIEW_INFO_PENDING_INTENT = "contentIntent";
+    public static final String REMOTE_VIEW_INFO_REMOTE = "remote";
+    public static final String REMOTE_VIEW_INFO_SECURE_MODE_REMOTE = "secure_mode_remote";
+    public static final String REMOTE_VIEW_INFO_TIME = "time";
+    public static final String REMOTE_VIEW_INFO_TYPE = "type";
+    public static final String REMOTE_VIEW_INFO_VISIBILITY = "visibility";
+    public static final String SETTINGS_TWOPHONE_REGISTERED = "two_register";
+    public static final String SETTINGS_T_PHONE_ENABLED = "skt_phone20_settings";
+    public static final String SETTINGS_T_PHONE_RELAX_MODE = "skt_phone20_relax_mode";
+    public static final String SYSTEM_EVENT_KEY_FOTA_IN_PROGRESS = "fota_in_progress";
+    public static final String SYSTEM_EVENT_KEY_SEND_COMMAND_CONTENT = "send_command_content";
+    public static final String SYSTEM_EVENT_KEY_SEND_COMMAND_ID = "send_command_id";
+    public static final String TAG = "LedService";
+    public static final String TYPE_MISSED_CALL = "missed_call";
+    public static final String TYPE_MISSED_MESSAGE = "new_message";
+    public static final String TYPE_MUSIC_PLAYER = "music_controller";
+    public static final String TYPE_VOICE_RECORDER = "voice_recorder";
+}

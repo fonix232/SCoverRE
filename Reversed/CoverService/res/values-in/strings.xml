@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Unduh</string>
+    <string name="sview_led_cover_download_feature_summary">Unduh dan instal fitur tambahan untuk Cover Tampilan LED. Anda dapat membuat ikon LED sendiri dan mengaturnya sebagai ikon notifikasi. Untuk mengunduhnya nanti, buka Pengaturan > Fitur lanjutan > Aksesori > Cover tampilan LED, lalu pilih Unduh fitur tambahan.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">Unduh fitur tambahan</string>
+</resources>

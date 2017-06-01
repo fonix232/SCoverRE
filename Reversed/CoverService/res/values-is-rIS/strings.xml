@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Sækja</string>
+    <string name="sview_led_cover_download_feature_summary">Sæktu viðbótareiginleika fyrir LED View-hulstur og settu þá upp. Þú getur búið til þín eigin LED-tákn og valið þau sem tilkynningatákn. Farðu í „Stillingar > Ítarlegir eiginleikar > Aukahlutir > LED View-hulstur“ og veldu „Sækja viðbótareiginleika“ til að sækja þá seinna.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">Sækja viðbótareiginleika</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="10" android:orientation="0" android:id="@id/app_frame" android:background="?unknown_attr_ref: 101030e" android:paddingTop="8dp" android:paddingBottom="8dp" android:layout_width="-2" android:layout_height="-2" android:minHeight="?unknown_attr_ref: 1010387" android:paddingStart="18dp" android:paddingEnd="18dp">
+    <FrameLayout android:id="@id/list_desc_layout" android:layout_width="-2" android:layout_height="-2" android:layout_marginStart="@dimen/check_list_anim_margin">
+        <ImageView android:id="@id/caller_id" android:padding="@dimen/add_bottom_padding" android:layout_width="@dimen/noti_list_imgview_width_height" android:layout_height="@dimen/noti_list_imgview_width_height" android:src="@drawable/tw_list_icon_circle_mtrl" android:scaleType="3" android:layout_marginEnd="@dimen/add_bottom_margin" />
+        <ImageView android:id="@id/img_create_icon" android:padding="@dimen/add_bottom_padding" android:layout_width="@dimen/noti_list_imgview_width_height" android:layout_height="@dimen/noti_list_imgview_width_height" android:src="@drawable/tw_list_icon_create_mtrl" android:scaleType="3" android:layout_marginEnd="@dimen/add_bottom_margin" />
+    </FrameLayout>
+    <TextView android:ellipsize="4" android:id="@id/caller_id_name" android:layout_width="-2" android:layout_height="-2" android:text="@string/ss_add_contact" android:singleLine="true" style="@style/list_title_text_style" />
+</LinearLayout>

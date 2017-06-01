@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <TextView android:id="@id/tv_no_item_description" android:padding="@dimen/caller_add_contact_message_start_end_padding" android:layout_width="-1" android:layout_height="-2" android:text="@string/caller_add_contact_message" />
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+        <View android:id="@id/view3" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0" />
+        <Button android:gravity="11" android:layout_gravity="1" android:id="@id/btn_add_contact" android:paddingLeft="@dimen/add_bottom_padding_left_right" android:paddingRight="@dimen/add_bottom_padding_left_right" android:layout_width="-2" android:layout_height="-2" android:text="@string/ss_add_contact" />
+        <View android:id="@id/view2" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

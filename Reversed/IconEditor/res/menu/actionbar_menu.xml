@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <item app:id="@id/menu_add" app:title="@string/menu_add" app:showAsAction="1" />
+    <item app:id="@id/menu_change" app:title="@string/menu_change" app:showAsAction="1" />
+    <item app:id="@id/menu_done" app:title="@string/done2" app:showAsAction="1" />
+    <item app:id="@id/menu_edit" app:title="@string/menu_edit" app:showAsAction="1" />
+    <item app:id="@id/menu_remove" app:title="@string/menu_remove" app:showAsAction="1" />
+</menu>

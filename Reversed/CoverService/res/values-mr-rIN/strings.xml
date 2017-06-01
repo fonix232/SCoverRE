@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">डाउनलोड</string>
+    <string name="sview_led_cover_download_feature_summary">LED व्हयू कव्हरसाठी अतिरिक्‍त वैशिष्‍ट्ये डाउनलोड आणि इनस्टॉल करा. आपण आपले स्वतःचे LED आयकॉन्स तयार करू शकता आणि त्यांना आपले अधिसूचना आयकॉन्स म्हणून सेट करू शकता. त्यांना नंतर डाउनलोड करण्यासाठी, सेटिंग्स > प्रगत वैशिष्ट्ये > ऍक्सेसरीस >LED व्हयू कव्हर वर जा, नंतर अतिरिक्‍त वैशिष्‍ट्ये “डाउनलोड करा” निवडा.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">अतिरिक्‍त वैशिष्‍ट्ये डाउनलोड करा</string>
+</resources>

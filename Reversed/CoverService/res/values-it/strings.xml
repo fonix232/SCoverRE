@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Scarica</string>
+    <string name="sview_led_cover_download_feature_summary">Scaricate e installate le funzioni aggiuntive di Cover a LED. Potete creare delle icone LED personalizzate e impostarle come icone di notifica. Per scaricarle in un secondo momento, andate a Impostazioni > Funzioni avanzate > Accessori > Cover a LED, quindi selezionate Scarica funzioni aggiuntive.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Scaricate e installate le funzioni aggiuntive di Cover a LED. Potete creare delle icone LED personalizzate e impostarle come icone di notifica. Per scaricarle in un secondo momento, andate a Impostazioni > Accessori > Cover a LED, quindi selezionate Scarica funzioni aggiuntive.</string>
+    <string name="sview_led_cover_download_feature_title">Scarica funzioni aggiuntive</string>
+</resources>

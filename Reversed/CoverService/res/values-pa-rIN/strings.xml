@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">ਡਾਉਨਲੋਡ ਕਰੋ</string>
+    <string name="sview_led_cover_download_feature_summary">LED ਦ੍ਰਿਸ਼ ਕਵਰ ਲਈ ਅਤਿਰਿਕਤ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਡਾਉਨਲੋਡ ਅਤੇ ਸਥਾਪਿਤ ਕਰੋ। ਤੁਸੀਂ ਖੁਦ ਆਪਣੇ LED ਪ੍ਰਤੀਰੂਪ ਬਣਾ ਸਕਦੇ ਹੋ ਅਤੇ ਉਨ੍ਹਾਂ ਨੂੰ ਆਪਣੇ ਸੂਚਨਾ ਪ੍ਰਤੀਰੂਪਾਂ ਵਜੋਂ ਸੈੱਟ ਕਰ ਸਕਦੇ ਹੋ। ਉਨ੍ਹਾਂ ਨੂੰ ਬਾਅਦ ਵਿੱਚ ਡਾਉਨਲੋਡ ਕਰਨ ਲਈ, ਸੈੱਟਿੰਗਸ > ਉੱਨਤ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ > ਉਪਸਾਧਨ > LED ਦ੍ਰਿਸ਼ ਕਵਰ ਤੇ ਜਾਉ, ਫਿਰ ਅਤਿਰਿਕਤ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ “ਡਾਉਨਲੋਡ ਕਰੋ” ਨੂੰ ਚੁਣੋ।</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">ਅਤਿਰਿਕਤ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਡਾਉਨਲੋਡ ਕਰੋ</string>
+</resources>

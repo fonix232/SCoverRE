@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="creation_land_linearlayout_margin_bottom">13.0dip</dimen>
+    <dimen name="creation_land_linearlayout_margin_top">20.0dip</dimen>
+    <dimen name="creation_linearlayout_margin_left_right">51.0dip</dimen>
+    <dimen name="custom_draw_pandding_left_right">12.0dip</dimen>
+    <dimen name="custom_layout_height">251.0dip</dimen>
+    <dimen name="custom_layout_marginBottom">13.0dip</dimen>
+    <dimen name="custom_layout_menu_layout_height">63.0dip</dimen>
+    <dimen name="custom_layout_padding_bottom">6.5dip</dimen>
+    <dimen name="custom_layout_padding_top">8.5dip</dimen>
+    <dimen name="custom_layout_panding_left_right">9.5dip</dimen>
+    <dimen name="custom_layout_width">617.0dip</dimen>
+    <dimen name="dot_led_height">15.0dip</dimen>
+    <dimen name="dot_led_margin_side">5.5dip</dimen>
+    <dimen name="dot_led_margin_updown">5.5dip</dimen>
+    <dimen name="dot_led_width">15.0dip</dimen>
+    <dimen name="pattern_draw_menu_btn_height">23.0dip</dimen>
+    <dimen name="pattern_draw_menu_btn_width">23.0dip</dimen>
+    <dimen name="pattern_draw_menu_layout_height">63.0dip</dimen>
+    <dimen name="pattern_draw_menu_layout_width">64.0dip</dimen>
+    <dimen name="pattern_draw_menu_txt_height">23.0dip</dimen>
+    <dimen name="pattern_draw_menu_txt_size">12.0dip</dimen>
+</resources>

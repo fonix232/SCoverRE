@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">下載</string>
+    <string name="sview_led_cover_download_feature_summary">下載並安裝 LED View 保護套的其他功能。您可以建立專屬 LED 圖示並將其設定為您的通知圖示。若要稍後下載，請前往 [設定] > [進階功能] > [配件] > [LED view 保護套]，然後選擇 [下載其他功能]。</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">下載並安裝 LED View 保護套的其他功能。您可以建立專屬 LED 圖示並將其設定為您的通知圖示。若要稍後下載，請前往 [設定] > [配件] > [LED View 保護套]，然後選擇 [下載其他功能]。</string>
+    <string name="sview_led_cover_download_feature_title">下載其他功能</string>
+</resources>

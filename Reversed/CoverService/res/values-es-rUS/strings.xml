@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Descargar</string>
+    <string name="sview_led_cover_download_feature_summary">Descargue e instale las características adicionales de LED View Cover. Puede crear sus propios íconos LED y definirlos como íconos de notificación. Para realizar la descarga más tarde, vaya a Ajustes > Características avanzadas > Accesorios > LED View Cover, y seleccione Descargar características adicionales.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Descargue e instale las características adicionales de LED View Cover. Puede crear sus propios íconos LED y definirlos como íconos de notificación. Para realizar la descarga más tarde, vaya a Ajustes > Accesorios > LED View Cover, y seleccione Descargar características adicionales.</string>
+    <string name="sview_led_cover_download_feature_title">Descargar características adicionales</string>
+</resources>

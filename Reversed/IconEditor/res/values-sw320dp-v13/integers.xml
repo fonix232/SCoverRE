@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="direction_value">1</integer>
+    <integer name="LC_CircularView_inner_stroke_thickness">4</integer>
+    <integer name="LC_CircularView_outer_stroke_thickness">20</integer>
+</resources>

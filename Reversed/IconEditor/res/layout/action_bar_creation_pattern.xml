@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:background="@color/modify_icon_bg" android:layout_width="-1" android:layout_height="?unknown_attr_ref: 10102eb" style="?unknown_attr_ref: 10102ce">
+    <LinearLayout android:id="@id/edit_creation" android:layout_width="-1" android:layout_height="-1"
+        <LinearLayout android:gravity="11" android:id="@id/edit_cancle_btn" android:background="?unknown_attr_ref: 101045c" android:clickable="true" android:layout_width="-2" android:layout_height="-1" android:layout_weight="1.0">
+            <TextView android:textAppearance="?unknown_attr_ref: 1010360" android:textSize="@dimen/btn_actionbar_txt_size" android:textStyle="1" android:textColor="@color/actionbar_menu_txt_color" android:gravity="11" android:id="@id/edit_cancle_btn_rec" android:layout_width="-1" android:layout_height="-1" android:text="@string/cancel" android:textAllCaps="true" android:fontFamily="sec-roboto-condensed" />
+        </LinearLayout>
+        <LinearLayout android:gravity="11" android:id="@id/edit_done" android:background="?unknown_attr_ref: 101045c" android:clickable="true" android:layout_width="-2" android:layout_height="-1" android:layout_weight="1.0">
+            <TextView android:textSize="@dimen/btn_actionbar_txt_size" android:textStyle="1" android:textColor="@color/actionbar_menu_txt_color" android:gravity="11" android:id="@id/edit_done_rec" android:layout_width="-1" android:layout_height="-1" android:text="@string/done2" android:textAllCaps="true" android:fontFamily="sec-roboto-condensed" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

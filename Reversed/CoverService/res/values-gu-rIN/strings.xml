@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">ડાઉનલોડ કરો</string>
+    <string name="sview_led_cover_download_feature_summary">LED વ્યૂ કવર માટે વધારાની સુવિધાઓ ડાઉનલોડ કરો અને ઇન્સ્ટોલ કરો. તમે તમારા પોતાના LED ચિહ્નો બનાવી અને તેને તમારા સૂચના ચિહ્નો તરીકે સેટ કરી શકો છો. તેને પછીથી ડાઉનલોડ કરવા માટે, સેટિંગ્સ > પ્રગત સુવિધાઓ > ઍક્સેસરીઝ > LED વ્યૂ કવર પર જાઓ, પછી વધારાની સુવિધાઓ “ડાઉનલોડ કરો” પસંદ કરો.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">વધારાની સુવિધાઓ ડાઉનલોડ કરો</string>
+</resources>

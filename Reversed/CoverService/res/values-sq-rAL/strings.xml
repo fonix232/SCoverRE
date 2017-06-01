@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Shkarko</string>
+    <string name="sview_led_cover_download_feature_summary">Shkarko dhe instalo funksionalitete të mëtejshme për Mbulesën e pamjes LED. Mund të krijosh ikonat e tua LED dhe t‘i cilësosh si ikona njoftimesh. Për t‘i shkarkuar ato më vonë, shko te Cilësimet > Funksionalitetet e avancuara > Aksesorët > Mbulesa e pamjes LED, pastaj përzgjidh Shkarko funksionalitete të mëtejshme.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">Shkarko funksionalitete të mëtejshme</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Hämta</string>
+    <string name="sview_led_cover_download_feature_summary">Hämta och installera fler funktioner för LED-fodral. Du kan skapa egna LED-ikoner och ange att de ska vara aviseringsikoner. Om du vill hämta dem senare öppnar du Inställningar > Avancerade funktioner > Tillbehör > LED-fodral och markerar Hämta fler funktioner.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">Hämta fler funktioner</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">ডাউনলোড</string>
+    <string name="sview_led_cover_download_feature_summary">‘LED ভিউ কভার’-এর বাড়তি ফিচারগুলো ডাউনলোড ও ইনস্টল করুন৷ আপনি আপনার নিজস্ব LED আইকন তৈরি করতে এবং সেগুলোকে আপনার বিজ্ঞপ্তির আইকন হিসেবে সেট করতে পারেন৷ সেগুলোকে পরে ডাউনলোড করতে, ‘সেটিংস > উচ্চতর ফিচার > অ্যাক্সেসরিজ > LED ভিউ কভার’ অপশনে যান, তারপর ‘বাড়তি ফিচার ডাউনলোড করুন’ অপশনটি নির্বাচন করুন৷</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">বাড়তি ফিচারগুলো ডাউনলোড করুন</string>
+</resources>

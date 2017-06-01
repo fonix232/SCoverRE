@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Preuzmi</string>
+    <string name="sview_led_cover_download_feature_summary">Preuzmite i instalirajte dodatne funkcije za Poklopac za LED ekran. Možete da kreirate sopstvene LED ikone i podesite ih kao svoje ikone obaveštenja. Da biste ih preuzeli kasnije, idite na Podešavanja > Napredne funkcije > Pribor > Poklopac za LED ekran, a zatim izaberite opciju Preuzmi dodatne funkcije.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">Preuzmite dodatne funkcije</string>
+</resources>

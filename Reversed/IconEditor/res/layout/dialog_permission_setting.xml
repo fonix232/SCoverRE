@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@id/dialog_scoll" android:layout_width="-1" android:layout_height="-1" android:fillViewport="true">
+    <RelativeLayout android:background="@drawable/dialog_background" android:layout_width="-1" android:layout_height="-1">
+        <TextView android:textSize="17dp" android:textColor="#ff252525" android:id="@id/tv_body" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="24dp" android:layout_marginTop="24dp" android:layout_marginRight="24dp" android:layout_marginBottom="8dp" android:lineSpacingExtra="4dp" />
+        <LinearLayout android:id="@id/rv_permission" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="24dp" android:layout_marginRight="24dp" android:layout_marginBottom="24dp" android:layout_below="@id/tv_body">
+            <ImageView android:layout_gravity="10" android:id="@id/iv_permission" android:layout_width="32dp" android:layout_height="32dp" android:tint="#80252525" android:layout_centerInParent="true" android:tintMode="5" />
+            <TextView android:textSize="16dp" android:textColor="#ff252525" android:gravity="10" android:layout_gravity="10" android:id="@id/tv_permission" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="8dp" android:layout_centerInParent="true" />
+        </LinearLayout>
+        <TextView android:textSize="16dp" android:textStyle="1" android:textColor="#499ebd" android:gravity="11" android:id="@id/tv_settings" android:paddingLeft="18dp" android:paddingRight="18dp" android:layout_width="-2" android:layout_height="36dp" android:layout_marginBottom="24dp" android:text="@string/permission_settings" android:layout_below="@id/rv_permission" android:textAllCaps="true" android:layout_marginEnd="6dp" android:layout_alignParentEnd="true" />
+        <TextView android:textSize="16dp" android:textStyle="1" android:textColor="#499ebd" android:gravity="11" android:id="@id/tv_cancel" android:paddingLeft="18dp" android:paddingRight="18dp" android:layout_width="-2" android:layout_height="36dp" android:layout_marginBottom="24dp" android:text="@string/permission_cancel" android:layout_below="@id/rv_permission" android:textAllCaps="true" android:layout_toStartOf="@id/tv_settings" />
+    </RelativeLayout>
+</ScrollView>

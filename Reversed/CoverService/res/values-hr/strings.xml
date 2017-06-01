@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Skini</string>
+    <string name="sview_led_cover_download_feature_summary">Preuzmite i instalirajte dodatne značajke za torbicu s LED prikazom. Možete izraditi vlastite ikone za LED i postaviti ih kao ikone za obavijesti. Kako biste ih preuzeli kasnije, idite na Postavke > Napredne značajke > Dodaci > Torbica s LED prikazom, zatim odaberite Preuzimanje dodatnih značajki.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">Preuzimanje dodatnih značajki</string>
+</resources>

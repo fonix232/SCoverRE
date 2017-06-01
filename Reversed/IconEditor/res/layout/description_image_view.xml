@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+    <ImageView android:id="@id/description_image" android:layout_width="-1" android:layout_height="184dp" />
+    <TextView android:textSize="@dimen/description_content_text_size" android:textColor="@color/description_content_text_color" android:id="@id/description_text" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="@dimen/description_with_picture_content_margin_top_bottom" android:layout_marginBottom="@dimen/description_with_picture_content_margin_top_bottom" android:lineSpacingExtra="@dimen/description_content_line_space" android:fontFamily="sec-roboto-light" />
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <scale android:duration="150" android:pivotX="50%" android:pivotY="50%" android:fromXScale="1.0" android:toXScale="1.04" android:fromYScale="1.0" android:toYScale="1.04" />
+    <scale android:duration="150" android:pivotX="50%" android:pivotY="50%" android:startOffset="150" android:fromXScale="1.04" android:toXScale="1.08" android:fromYScale="1.04" android:toYScale="1.08" />
+    <scale android:duration="150" android:pivotX="50%" android:pivotY="50%" android:startOffset="300" android:fromXScale="1.08" android:toXScale="1.04" android:fromYScale="1.08" android:toYScale="1.04" />
+    <scale android:duration="100" android:pivotX="50%" android:pivotY="50%" android:startOffset="450" android:fromXScale="1.04" android:toXScale="1.0" android:fromYScale="1.04" android:toYScale="1.0" />
+</set>

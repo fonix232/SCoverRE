@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="3" android:innerRadiusRatio="4.0" android:thicknessRatio="26.0" android:useLevel="false">
+    <solid android:color="@color/edit_led_normal" />
+</shape>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:id="@id/app_frame" android:layout_width="-2" android:layout_height="-2" android:minHeight="?unknown_attr_ref: 1010387" android:paddingStart="18dp" android:paddingEnd="18dp"
+    <LinearLayout android:paddingTop="8dp" android:paddingBottom="8dp" android:layout_width="-1" android:layout_height="-2">
+        <CheckBox android:layout_gravity="10" android:id="@id/cb_selected" android:background="@drawable/checkbox_no_ripple" android:focusable="false" android:focusableInTouchMode="false" android:visibility="0" android:clickable="false" android:layout_width="@dimen/noti_list_abar_checkbox_width_height" android:layout_height="@dimen/noti_list_abar_checkbox_width_height" />
+        <LinearLayout android:orientation="0" android:id="@id/list_desc_layout" android:layout_width="-2" android:layout_height="-2" android:layout_marginStart="18dp">
+            <ImageView android:id="@id/app_image" android:layout_width="@dimen/noti_list_imgview_width_height" android:layout_height="@dimen/noti_list_imgview_width_height" android:scaleType="3" android:layout_marginEnd="18dp" />
+            <TextView android:textSize="@dimen/noti_list_item_text_size" android:ellipsize="4" android:layout_gravity="10" android:id="@id/app_name" android:layout_width="-2" android:layout_height="-2" android:minHeight="@dimen/noti_list_item_height" android:singleLine="true" style="@style/list_title_text_style" />
+        </LinearLayout>
+    </LinearLayout>
+    <View android:background="@color/divider" android:layout_width="-1" android:layout_height="1px" android:layout_marginStart="@dimen/noti_listview_item_divider_margin_start" />
+</LinearLayout>

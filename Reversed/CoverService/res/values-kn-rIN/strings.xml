@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">ಡೌನ್‌ಲೋಡ್</string>
+    <string name="sview_led_cover_download_feature_summary">LED ವೀಕ್ಷಣೆ ಕವರ್‌ಗಾಗಿ ಹೆಚ್ಚುವರಿ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಡೌನ್‍ಲೋಡ್ ಮಾಡಿ ಮತ್ತು ಸ್ಥಾಪಿಸಿ. ನಿಮ್ಮದೇ LED ಐಕಾನ್‍ಗಳನ್ನು ರಚಿಸಿ ಹಾಗೂ ನಿಮ್ಮ ಪ್ರಕಟಣೆ ಐಕಾನ್‍ಗಳ ರೂಪದಲ್ಲಿ ಅವುಗಳನ್ನು ಸರಿಹೊಂದಿಸಿ. ಅವುಗಳನ್ನು ನಂತರ ಡೌನ್‍ಲೋಡ್ ಮಾಡಲು, ಸಂಯೋಜನೆಗಳು > ಸುಧಾರಿತ ವೈಶಿಷ್ಟ್ಯಗಳು > ಅಸೆಸರಿಗಳು > LED ವೀಕ್ಷಣೆ ಕವರ್‌ಗೆ ಹೋಗಿ, ತದನಂತರ ಹೆಚ್ಚುವರಿ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು “ಡೌನ್‍ಲೋಡ್ ಮಾಡು” ಆಯ್ಕೆಮಾಡಿ.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">ಹೆಚ್ಚುವರಿ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಡೌನ್‍ಲೋಡ್ ಮಾಡಿ</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="string" name="monotype_dialog_button" id="0x7f020000" />
+    <public type="string" name="sview_led_cover_download_feature_summary" id="0x7f020001" />
+    <public type="string" name="sview_led_cover_download_feature_summary_vzw" id="0x7f020002" />
+    <public type="string" name="sview_led_cover_download_feature_title" id="0x7f020003" />
+    <public type="string" name="app_name" id="0x7f020004" />
+</resources>

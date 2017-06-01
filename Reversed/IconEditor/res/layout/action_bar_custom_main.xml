@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="10" android:layout_width="-1" android:layout_height="-1">
+    <ImageButton android:id="@id/actionbar_icon" android:background="?unknown_attr_ref: 101045c" android:focusable="true" android:clickable="true" android:layout_width="@dimen/led_cover_main_abar_width" android:layout_height="@dimen/led_cover_main_abar_height" android:src="@drawable/tw_ic_ab_back_auto_mirrored" android:scaleType="5" android:tint="@color/actionbar_menu_txt_color" android:contentDescription="@string/actionbar_backbtn" />
+    <TextView android:textSize="@dimen/led_cover_main_abar_desc_textview_text_size" android:textColor="#e6252525" android:ellipsize="3" android:id="@id/actionbar_title" android:layout_width="-2" android:layout_height="-2" android:maxLines="1" android:textAllCaps="true" android:fontFamily="sec-roboto-condensed" style="@*style/TextAppearance.DeviceDefault.Widget.ActionBar.Title" />
+</LinearLayout>

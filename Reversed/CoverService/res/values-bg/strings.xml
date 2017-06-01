@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Изтегляне</string>
+    <string name="sview_led_cover_download_feature_summary">Изтеглете и инсталирайте допълнителни функции за LED View Cover. Може да създадете собствени LED икони и да ги зададете като икони за уведомления. За да ги изтеглите по-късно, отидете в Настройки > Разширени функции > Аксесоари > LED view cover, след което изберете „Изтегляне на допълнителни функции“.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">Изтегляне на допълнителни функции</string>
+</resources>

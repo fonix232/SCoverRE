@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:"http://schemas.android.com/apk/res/android" android:versionCode="203300100" android:versionName="2.0.33" package="com.samsung.android.app.ledcoverdream" platformBuildVersionCode="24" platformBuildVersionName="7.0">
+    <uses-sdk android:minSdkVersion="23" android:targetSdkVersion="24" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+    <uses-permission android:name="com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission android:name="android.permission.GRANT_RUNTIME_PERMISSIONS" />
+    <uses-permission android:name="com.samsung.android.app.ledcover.LAUNCH" />
+    <uses-permission android:name="com.samsung.android.app.ledcover.cp.LCoverContentProvider.READ_DATABASE" />
+    <uses-permission android:name="android.permission.INSTALL_PACKAGES" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.DEVICE_POWER" />
+    <uses-permission android:name="com.sec.spp.permission.TOKEN_2df48c03697f578a5e9cefa5a4dca0eb2a246d7ea4e0f2e373490c488793cf450ee1dec684a87e2b86bf5d2db10f75e8a8765f6e3f7ae4229b8a8a1abc304f1fed9e5353c0a930670c0614a8467dbacc9641f6a6a6ef6b56615572f41509b49eed42b185869dd29b9945a4b4418b4e30f7e148d4db4d643edef17def4cbbe42f" />
+    <permission android:name="com.samsung.android.app.ledcover.cp.LCoverContentProvider.READ_DATABASE" android:protectionLevel="dangerous|signature|signatureOrSystem" />
+    <permission android:name="com.samsung.android.app.ledcover.LAUNCH" android:protectionLevel="dangerous|signature|signatureOrSystem" />
+    <application android:label="@string/app_name" android:icon="@drawable/led_view_cover" android:name="com.samsung.android.app.ledcover.app.LCoverApplication" android:debuggable="false" android:allowBackup="false" android:largeHeap="true" android:supportsRtl="true">
+        <activity android:theme="@style/EditTheme" android:name="com.samsung.android.app.ledcover.app.LCoverRootActivity" android:launchMode="singleTask" android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden|orientation|fontScale" android:alwaysRetainTaskState="true" android:windowSoftInputMode="30" android:resizeableActivity="false">
+            <intent-filter>
+                <action android:name="com.samsung.android.app.ledcover.action.LAUNCH" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="application/com.samsung.android.app.ledcover" />
+            </intent-filter>
+        </activity>
+        <activity-alias android:label="@string/app_name" android:name="com.samsung.android.app.ledcover.app.LCoverMainLauncher" android:enabled="false" android:targetActivity="com.samsung.android.app.ledcover.app.LCoverRootActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity-alias>
+        <activity android:theme="@style/EditTheme" android:label="@string/app_name" android:name="com.samsung.android.app.ledcover.app.LCoverCallMainActivity" android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|fontScale" android:parentActivityName="com.samsung.android.app.ledcover.app.LCoverRootActivity" />
+        <activity android:theme="@style/EditTheme" android:name="com.samsung.android.app.ledcover.call.LCoverContactsListActivity" android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|fontScale" android:parentActivityName="com.samsung.android.app.ledcover.app.LCoverCallMainActivity" />
+        <activity android:theme="@style/EditTheme" android:label="@string/app_name" android:name="com.samsung.android.app.ledcover.app.LCoverNotiMainActivity" android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|fontScale" android:parentActivityName="com.samsung.android.app.ledcover.app.LCoverRootActivity" />
+        <activity android:theme="@style/EditTheme" android:label="@string/app_name" android:name="com.samsung.android.app.ledcover.noti.LCoverNotiAppListActivity" android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|fontScale" android:parentActivityName="com.samsung.android.app.ledcover.app.LCoverNotiMainActivity" />
+        <activity android:theme="@style/EditTheme" android:label="@string/app_name" android:name="com.samsung.android.app.ledcover.noti.LCoverNotiAppAddListActivity" android:screenOrientation="portrait" android:configChanges="locale|orientation|screenLayout|screenSize|smallestScreenSize|fontScale" android:parentActivityName="com.samsung.android.app.ledcover.noti.LCoverNotiAppListActivity" />
+        <activity android:theme="@style/EditTheme" android:name="com.samsung.android.app.ledcover.creationpattern.LCoverCreatePatternActivity" android:screenOrientation="portrait" android:configChanges="locale|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|fontScale" />
+        <activity android:theme="@*android:style/Theme.DeviceDefault.Light.Dialog.NoActionBar" android:name="com.samsung.android.app.ledcover.app.LCoverUpdateFirmwareActivity" android:taskAffinity="ledcover.updateFirmware" android:excludeFromRecents="true" android:launchMode="singleTask" android:screenOrientation="portrait" android:configChanges="locale|orientation|screenLayout|screenSize|smallestScreenSize|fontScale" android:noHistory="true" />
+        <service android:label="@string/app_name" android:name="com.samsung.android.app.ledcover.service.LCoverNLS" android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE" android:enabled="true">
+            <intent-filter>
+                <action android:name="android.service.notification.NotificationListenerService" />
+            </intent-filter>
+        </service>
+        <service android:label="@string/app_name" android:name="com.samsung.android.app.ledcover.service.LCoverIcon" android:permission="com.samsung.android.app.ledcover.LAUNCH" android:enabled="true" android:exported="true" />
+        <service android:name="com.samsung.android.app.ledcover.service.LCoverFOTAUpdate" android:enabled="true" android:exported="false" />
+        <provider android:name="com.samsung.android.app.ledcover.cp.LCoverContentProvider" android:readPermission="com.samsung.android.app.ledcover.cp.LCoverContentProvider.READ_DATABASE" android:protectionLevel="dangerous|signature|signatureOrSystem" android:exported="true" android:authorities="com.samsung.android.app.ledcover.cp" />
+        <receiver android:name="com.samsung.android.app.ledcover.service.BootCompletedReceiver" android:enabled="true" android:exported="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.app.ledcover.service.LCoverIcon$ShutDownReceiver" android:enabled="true" android:exported="false">
+            <intent-filter>
+                <action android:name="android.intent.action.ACTION_SHUTDOWN" />
+            </intent-filter>
+        </receiver>
+        <meta-data android:name="android.max_aspect" android:value="2.1" />
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+        <uses-library android:name="secvision" android:required="false" />
+        <uses-library android:name="saiv" android:required="false" />
+        <meta-data android:name="SPDE.build.signature" android:value="3686669/11758336/dream-release/LedCoverAppDream-200100-2.0.33" />
+        <meta-data android:name="SPDE.env.version" android:value="2.1.3/L24.3.7/24.3.3" />
+    </application>
+</manifest>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item android:drawable="@drawable/ripple_effect" />
+    <item android:drawable="@drawable/action_bar_button_background" />
+</layer-list>

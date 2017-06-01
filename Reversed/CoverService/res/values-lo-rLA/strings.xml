@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">ດາວໂຫຼດ</string>
+    <string name="sview_led_cover_download_feature_summary">ດາວໂຫຼດແລະຕິດຕັ້ງຄຸນສົມບັດເພີ່ມເຕີມສຳລັບ LED View Cover. ທ່ານສາມາດສ້າງໄອຄອນ LED ຂອງທ່ານເອງແລະຕັ້ງພວກມັນເປັນໄອຄອນການແຈ້ງເຕືອນ. ເພື່ອດາວໂຫຼດພວກມັນພາຍຫຼັງ, ໄປທີ່ການຕັ້ງຄ່າ > ຄຸນສົມບັດຂັ້ນສູງ > ອຸປະກອນເສີມ > ຝາປິດມຸມມອງ LED, ຈາກນັ້ນເລືອກ [ດາວໂຫຼດຄຸນສົມບັດເພີ່ມເຕີມ].</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">ດາວໂຫຼດຄຸນສົມບັດເພີ່ມເຕີມ</string>
+</resources>

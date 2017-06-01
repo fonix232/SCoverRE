@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">ڈاؤن لوڈ</string>
+    <string name="sview_led_cover_download_feature_summary">‏LED منظر سرورق کے لیے اضافی خصوصیات ڈاؤن لوڈ اور تنصیب کریں۔ آپ اپنے خود کا LED شبیہ بنا سکتے اور انہیں اپنے نوٹیفکیشن شبیہ کے طور پر سیٹ کر سکتے ہیں۔ انہیں بعد میں ڈاؤن لوڈ کرنے کیلئے، سیٹنگز > اعلی خصوصیات > لوازمات > LED منظر سرورق پر جائیں، پھر اضافی خصوصیات [ڈاؤن لوڈ] کریں کو منتخب کریں۔</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">اضافی خصوصیات [ڈاؤن لوڈ کریں]</string>
+</resources>

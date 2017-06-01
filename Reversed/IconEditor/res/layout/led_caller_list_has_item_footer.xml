@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1" android:paddingStart="@dimen/led_cover_main_margin_start_end" android:paddingEnd="@dimen/led_cover_main_margin_start_end">
+    <View android:background="@color/divider" android:layout_width="-1" android:layout_height="@dimen/list_divider_height" />
+    <TextView android:textSize="@dimen/noti_list_footer_text_size" android:textColor="@color/custom_list_1_line_text_color" android:gravity="10" android:layout_gravity="11" android:id="@id/tv_contact_count" android:layout_width="-2" android:layout_height="@dimen/noti_list_footer_height" android:text="@string/sview_led_cover_caller_id_ps_contacts" />
+    <TextView android:id="@id/tv_has_item_description" android:paddingTop="@dimen/noti_list_footer_padding_bottom" android:paddingBottom="@dimen/noti_list_footer_padding_bottom" android:layout_width="-1" android:layout_height="-2" android:text="@string/caller_has_contact_add_contact_message" />
+</LinearLayout>

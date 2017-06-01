@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">ទាញយក</string>
+    <string name="sview_led_cover_download_feature_summary">ទាញយក​និង​ដំឡើង​មុខងារ​បន្ថែម​សម្រាប់ LED View Cover។ អ្នក​អាច​បង្កើត​អាយខុន LED ផ្ទាល់ខ្លួន​របស់​អ្នក ហើយ​កំណត់​ពួកវា​ជា​អាយខុន​ការជូនដំណឹង​របស់​អ្នក។ ដើម្បី​ទាញយក​ពួកវា​ពេលក្រោយ សូម​ចូលទៅ ការកំណត់ > មុខងារ​ទំនើប > គ្រឿងបន្សំ > LED View Cover រួច​ជ្រើស ទាញយក​មុខងារ​បន្ថែម។</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">ទាញយក​មុខងារ​បន្ថែម</string>
+</resources>

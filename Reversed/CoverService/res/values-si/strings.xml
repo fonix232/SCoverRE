@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">බාගන්න</string>
+    <string name="sview_led_cover_download_feature_summary">LED දසුන් කවරය සඳහා අතිරේක විශේෂාංග බාගෙන ස්ථාපනය කරන්න. ඔබට ඔබේ ම LED අයිකන තනා ඒවා ඔබේ දැනුම්දීම් අයිකන ලෙස පිහිටුවිය හැක. ඒවා පසුව බාගැනීම සඳහා, සැකසුම් > උසස් විශේෂාංග> ආයිත්තම් > LED දසුන් කවරය වෙත යන්න, එවිට “අතිරේක” විශේෂාංග බාගන්න තෝරන්න.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">අතිරේක විශේෂාංග බාගැනීම</string>
+</resources>

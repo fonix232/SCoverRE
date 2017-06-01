@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:paddingLeft="16dp" android:paddingRight="16dp" android:layout_width="-1" android:layout_height="?unknown_attr_ref: 7f010058" android:minWidth="196dp">
+    <TextView android:textAppearance="?unknown_attr_ref: 7f010053" android:ellipsize="4" android:layout_gravity="10" android:id="0x1020016" android:fadingEdge="1000" android:layout_width="-1" android:layout_height="-2" android:singleLine="true" android:textAlignment="5" />
+</FrameLayout>

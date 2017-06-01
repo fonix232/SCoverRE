@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Yüklə</string>
+    <string name="sview_led_cover_download_feature_summary">LED Baxış Üz Qabığında üçün əlavə funksiyalar yükləyin və quraşdırın. Siz öz LED nişanlarınızı yarada və onları bildiriş nişanlarınız kimi qura bilərsiniz. Onları daha sonra yükləmək üçün Parametrlər > Qabaqcıl funksiyalar > Aksessuarlar > LED baxış üz qabığında və Əlavə funksiyaları yüklə seçin.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">Əlavə funksiyaları yükləyin</string>
+</resources>

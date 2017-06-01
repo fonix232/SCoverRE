@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Baixar</string>
+    <string name="sview_led_cover_download_feature_summary">Baixe e instale recursos adicionais para a Capa de LED. Você pode criar seus próprios ícones de LED e defini-los como ícones de notificação. Para baixá-los mais tarde, vá para Configurações > Recursos avançados > Acessórios > Capa de LED e selecione Baixar recursos adicionais.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Baixe e instale recursos adicionais para a Capa de LED. Você pode criar seus próprios ícones de LED e defini-los como ícones de notificação. Para baixá-los mais tarde, vá para Configurações > Acessórios > Capa de LED e selecione Baixar recursos adicionais.</string>
+    <string name="sview_led_cover_download_feature_title">Baixar recursos adicionais</string>
+</resources>

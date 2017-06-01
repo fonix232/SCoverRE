@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="?unknown_attr_ref: 101042c">
+    <item>
+        <selector>
+            <item android:state_focused="true" android:state_enabled="false">
+                <shape android:shape="0">
+                    <solid android:color="@color/color_app_73d4d4d4" />
+                    <corners android:radius="2dp" />
+                </shape>
+            </item>
+            <item android:state_enabled="false">
+                <shape android:shape="0">
+                    <solid android:color="@color/color_app_59d4d4d4" />
+                    <corners android:radius="2dp" />
+                </shape>
+            </item>
+            <item android:state_focused="true">
+                <shape android:shape="0">
+                    <solid android:color="@color/color_app_66d4d4d4" />
+                    <corners android:radius="2dp" />
+                </shape>
+            </item>
+            <item android:state_pressed="true">
+                <shape android:shape="0">
+                    <solid android:color="@color/color_app_d4d4d4" />
+                    <corners android:radius="2dp" />
+                </shape>
+            </item>
+            <item android:state_selected="true">
+                <shape android:shape="0">
+                    <solid android:color="@color/color_app_73d4d4d4" />
+                    <corners android:radius="2dp" />
+                </shape>
+            </item>
+            <item>
+                <shape android:shape="0">
+                    <solid android:color="@color/color_app_00000000" />
+                    <corners android:radius="2dp" />
+                </shape>
+            </item>
+        </selector>
+    </item>
+</ripple>

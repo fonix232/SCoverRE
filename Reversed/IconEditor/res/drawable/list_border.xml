@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:insetLeft="126dp" android:insetRight="18dp">
+    <shape>
+        <solid android:color="@color/list_divider_color" />
+    </shape>
+</inset>

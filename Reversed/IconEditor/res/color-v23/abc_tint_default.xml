@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item android:state_enabled="false" android:color="?unknown_attr_ref: 7f01007f" android:alpha="?unknown_attr_ref: 1010033" />
+    <item android:state_focused="true" android:color="?unknown_attr_ref: 7f010080" />
+    <item android:state_pressed="true" android:color="?unknown_attr_ref: 7f010080" />
+    <item android:color="?unknown_attr_ref: 7f010080" android:state_activated="true" />
+    <item android:state_selected="true" android:color="?unknown_attr_ref: 7f010080" />
+    <item android:state_checked="true" android:color="?unknown_attr_ref: 7f010080" />
+    <item android:color="?unknown_attr_ref: 7f01007f" />
+</selector>

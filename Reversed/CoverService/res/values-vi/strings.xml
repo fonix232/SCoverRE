@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Tải về</string>
+    <string name="sview_led_cover_download_feature_summary">Tải về và cài đặt các tính năng bổ sung cho Vỏ LED View. Bạn có thể tạo biểu tượng LED của riêng bạn và đặt làm biểu tượng thông báo. Để tải về sau, hãy đi đến Cài đặt > Tính năng nâng cao > Phụ kiện > Vỏ LED view, rồi chọn Tải về tính năng bổ sung.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Tải về và cài đặt các tính năng bổ sung cho Vỏ LED View. Bạn có thể tạo biểu tượng LED của riêng bạn và đặt làm biểu tượng thông báo. Để tải về sau, hãy đi đến Cài đặt > Phụ kiện > Vỏ LED View, rồi chọn Tải về tính năng bổ sung.</string>
+    <string name="sview_led_cover_download_feature_title">Tải về tính năng bổ sung</string>
+</resources>

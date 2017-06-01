@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="1" android:useLevel="false" android:innerRadius="7dp">
+    <solid android:color="@color/color_view_pager_dot_indicator_selected" />
+</shape>

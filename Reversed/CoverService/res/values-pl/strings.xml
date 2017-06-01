@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Pobierz</string>
+    <string name="sview_led_cover_download_feature_summary">Pobierz i zainstaluj dodatkowe funkcje dla Osłony LED View. Możesz tworzyć własne ikony LED i ustawiać je jako ikony powiadomień. Aby pobrać je później, przejdź do menu Ustawienia > Funkcje zaawansowane > Akcesoria > Osłona LED View, a następnie wybierz opcję Pobieranie dodatkowych funkcji.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">Pobieranie dodatkowych funkcji</string>
+</resources>

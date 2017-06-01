@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:paddingLeft="24dp" android:paddingTop="16dp" android:paddingRight="24dp" android:paddingBottom="8dp" android:layout_width="-1" android:layout_height="-1">
+    <ScrollView android:layout_width="-1" android:layout_height="-2">
+        <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="17sp" android:textStyle="0" android:textColor="@color/color_app_252525" android:id="@id/dialog_content_text" android:layout_width="-1" android:layout_height="-2" android:text="@string/dream_the_update_will_take_about_pd_minutes_you_wont_be_able_to_use_your_led_cover_while_the_software_is_being_updated" android:includeFontPadding="false" android:fontFamily="sans-serif" />
+            <ImageView android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="8dp" android:src="@drawable/led_cover_img_software_update" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

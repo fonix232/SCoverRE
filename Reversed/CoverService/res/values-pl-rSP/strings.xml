@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Zebier</string>
+    <string name="sview_led_cover_download_feature_summary">Zebier i zainsztaluj ekstra fōnkcyje dlŏ Deklika LED View. Mogesz łōnaczyć swoje ikōny LED i nasztalowac je jako ikōny nowin. Coby zebrać je potym, przelyź do menu Nasztalowania > Roszyrzōne fōnkcyje > Dingsy > Deklik LED View, a potym ôbier ôpcyjŏ Zebiyranie ekstra fōnkcyji.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">Zebiyranie ekstra fōnkcyji</string>
+</resources>

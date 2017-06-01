@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">ဒေါင်းလုတ်</string>
+    <string name="sview_led_cover_download_feature_summary">LED ကြည့်ရှုကွက်ကာဗာအတွက် ဖြည့်စွက်ဝိသေသများကို ဒေါင်းလုတ်လုပ်ပြီး ထည့်သွင်းပါ။ ကိုယ်ပိုင် LED သင်္ကေတများကို ဖန်တီးနိုင်ပြီး ၎င်းတို့ကို အသိပေးချက်သင်္ကေတများအဖြစ်သတ်မှတ်နိုင်သည်။ ၎င်းတို့ကိုနောက်မှဒေါင်းလုတ်လုပ်ရန်၊ သတ်မှတ်ချက်များ > အဆင့်မြှင့်ထားသည့် ဝိသေသများ > တွဲသုံးပစ္စည်းများ > LED ကြည့်ရှုကွက်ကာဗာသို့သွားပြီး၊ “ဖြည့်စွက်ဝိသေသများကို ဒေါင်းလုတ်လုပ်ပါ” ကိုရွေးချယ်ပါ။</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">ဖြည့်စွက်ဝိသေသများကို ဒေါင်းလုတ်လုပ်ပါ</string>
+</resources>

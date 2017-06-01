@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Last ned</string>
+    <string name="sview_led_cover_download_feature_summary">Last ned og installer tilleggsfunksjoner for LED View-deksel. Du kan opprette dine egne LED-ikoner og angi dem som varselsikonene dine. For å laste dem ned senere går du til Innstillinger > Avanserte funksjoner > Tilbehør > LED View-deksel og velger Last ned tilleggsfunksjoner.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">Last ned tilleggsfunksjoner</string>
+</resources>

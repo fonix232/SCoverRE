@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">下载</string>
+    <string name="sview_led_cover_download_feature_summary">下载并安装 LED 智能保护皮套的其他功能。您可以创建自己的 LED 图标并将它们设为您的通知图标。若要稍后下载，请进入【设置】>【高级功能】>【配件】>【LED 智能保护皮套】，然后选项【下载其他功能】。</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">下载并安装 LED 智能保护皮套的其他功能。您可以创建自己的 LED 图标并将它们设为您的通知图标。若要稍后下载，请进入【设置】>【配件】>【LED 智能保护皮套】，然后选择【下载其他功能】。</string>
+    <string name="sview_led_cover_download_feature_title">下载其他功能</string>
+</resources>

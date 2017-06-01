@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="-1" android:layout_height="-2">
+    <ListView android:id="@id/lv_icon_noti_list" android:layout_width="-1" android:layout_height="-2" android:divider="@drawable/list_border" android:dividerHeight="@dimen/list_divider_height" android:headerDividersEnabled="false" android:footerDividersEnabled="false" />
+</LinearLayout>

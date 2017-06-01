@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item android:drawable="@drawable/view_pager_dot_indicator_default" />
+    <item android:state_selected="true" android:drawable="@drawable/view_pager_dot_indicator_selected" />
+</selector>

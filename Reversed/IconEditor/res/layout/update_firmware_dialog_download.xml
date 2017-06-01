@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:paddingLeft="24dp" android:paddingTop="24dp" android:paddingRight="24dp" android:paddingBottom="8dp" android:layout_width="-1" android:layout_height="-1">
+    <ScrollView android:layout_width="-1" android:layout_height="-2">
+        <TextView android:textSize="17sp" android:textStyle="0" android:textColor="@color/color_app_252525" android:id="@id/dialog_content_text" android:layout_width="-1" android:layout_height="-2" android:text="@string/dream_copying_software_update_to_ps_ing_sbody_abb" android:includeFontPadding="false" android:fontFamily="sans-serif" />
+    </ScrollView>
+    <ProgressBar android:id="@id/dialog_progress" android:layout_width="-1" android:layout_height="32dp" android:max="100" android:progress="0" android:indeterminate="true" style="?unknown_attr_ref: 1010078" />
+    <RelativeLayout android:layout_width="-2" android:layout_height="-2">
+        <TextView android:id="@id/dialog_progress_percent" android:layout_width="-2" android:layout_height="-2" android:text="0%" />
+        <TextView android:id="@id/dialog_progress_size" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:text="24.96KB/32KB" android:layout_alignParentRight="true" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+</LinearLayout>

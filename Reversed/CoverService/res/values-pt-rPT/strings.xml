@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Transferir</string>
+    <string name="sview_led_cover_download_feature_summary">Transfira e instale funcionalidades adicionais do LED View Cover. Pode criar os seus próprios ícones LED e defini-los como os seus ícones de notificações. Para as transferir mais tarde, aceda a Definições > Funcionalidades avançadas > Acessórios > LED View Cover e seleccione Transferir funcionalidades adicionais.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">Transferir funcionalidades adicionais</string>
+</resources>

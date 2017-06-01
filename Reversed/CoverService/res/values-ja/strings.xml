@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">ダウンロード</string>
+    <string name="sview_led_cover_download_feature_summary">LED View Coverの追加機能をダウンロードしてインストールします。オリジナルのLEDアイコンを作成し、それを通知アイコンとして設定することができます。後でダウンロードするには、[設定] > [高度な機能] > [アクセサリ] > [LED View Cover]に移動し、[追加機能をダウンロード]を選択してください。</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">LED View Coverの追加機能をダウンロードしてインストールします。オリジナルのLEDアイコンを作成し、通知アイコンとして設定することができます。後でダウンロードするには、[設定] > [アクセサリ] > [LED View Cover]に移動し、[追加機能をダウンロード]を選択してください。</string>
+    <string name="sview_led_cover_download_feature_title">追加機能をダウンロード</string>
+</resources>

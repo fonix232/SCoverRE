@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item android:state_enabled="false" android:color="?unknown_attr_ref: 7f01007f" android:alpha="?unknown_attr_ref: 1010033" />
+    <item android:state_focused="false" android:state_pressed="false" android:color="?unknown_attr_ref: 7f01007f" />
+    <item android:color="?unknown_attr_ref: 7f010080" />
+</selector>

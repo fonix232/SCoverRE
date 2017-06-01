@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="direction_value">1</integer>
+    <integer name="LC_CircularView_inner_stroke_thickness">4</integer>
+    <integer name="LC_CircularView_outer_stroke_thickness">20</integer>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="caller_id_lettertile_stroke_width">2</integer>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="google_play_services_version">8115000</integer>
+    <integer name="int_led_array_columns">23</integer>
+    <integer name="int_led_array_rows">9</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+</resources>

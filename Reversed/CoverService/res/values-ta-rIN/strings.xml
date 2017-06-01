@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">பதிவிறக்குக</string>
+    <string name="sview_led_cover_download_feature_summary">LED காட்சி உறைக்கான கூடுதல் அம்சங்களை பதிவிறக்கி, நிறுவவும். உங்களுக்கு சொந்தமாக LED சின்னங்களை நீங்கள் உருவாக்கலாம் மற்றும் அதை உங்கள் அறிவிப்பு சின்னங்களாக அமைக்கலாம். அவற்றைப் பிறகு பதிவிறக்க, அமைவுகள் > மேம்பட்ட அம்சங்கள் > துணைக்கருவிகள் > LED காட்சி உறை என்பதற்குச் சென்று, கூடுதல் அம்சங்களை “பதிவிறக்கவும்” என்பதைத் தேர்வு செய்யவும்.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">கூடுதல் அம்சங்களை பதிவிறக்கவும்</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Letöltés</string>
+    <string name="sview_led_cover_download_feature_summary">A LED-es tokhoz további funkciókat tölthet le és telepíthet. Saját LED-ikonokat hozhat létre, és beállíthatja őket értesítési ikonokként. A funkciókat később úgy töltheti le, hogy belép a Beállítások > Speciális funkciók > Tartozékok > LED-es tok menüpontba, és a További funkciók letöltése lehetőséget választja.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">További funkciók letöltése</string>
+</resources>

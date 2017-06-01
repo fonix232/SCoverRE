@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">डाउनलोड करें</string>
+    <string name="sview_led_cover_download_feature_summary">LED दृश्य कवर के लिए अतिरिक्त सुविधाएँ डाउनलोड और स्थापित करें। आप अपने स्वयं के LED चिह्न बना सकते हैं और उन्हें अपने अधिसूचना चिह्नों के रूप में सेट कर सकते हैं। उन्हें बाद में डाउनलोड करने के लिए, सेटिंग्स > उन्नत सुविधाएँ > उपसाधन > LED दृश्य कवर पर जाएँ, फिर अतिरिक्त सुविधाएँ “डाउनलोड करें” का चयन करें।</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">अतिरिक्त सुविधाएँ डाउनलोड करें</string>
+</resources>

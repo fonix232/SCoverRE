@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Завантажити</string>
+    <string name="sview_led_cover_download_feature_summary">Завантажуйте та встановлюйте додаткові функції для кришки зі світлодіодним індикатором. Ви можете створювати власні значки світлодіодного індикатора та встановлювати їх як значки сповіщень. Щоб завантажити функції пізніше, перейдіть до «Налаштування» > «Додаткові функції» > «Аксесуари» > «Кришка зі світлодіодним індикатором», після чого виберіть «Завантаження додаткових функцій».</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">Завантаження додаткових функцій</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="-1" android:layout_height="-2"
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="@dimen/preview_layout_margin" android:paddingStart="@dimen/preview_layout_margin" android:paddingEnd="@dimen/preview_layout_margin">
+        <ImageView android:layout_gravity="1" android:id="@id/iv_icon_image" android:background="@drawable/dot_background_style" android:layout_width="-1" android:layout_height="-2" android:scaleType="3" android:adjustViewBounds="true" />
+        <com.samsung.android.app.ledcover.creationpattern.CustomGridView android:gravity="11" android:layout_gravity="11" android:id="@id/pattern_drawlayout" android:background="@drawable/dot_background_style" android:paddingTop="@dimen/custom_layout_padding_bottom" android:paddingBottom="@dimen/custom_layout_padding_top" android:layout_width="-1" android:layout_height="-2" android:listSelector="0x106000d" android:stretchMode="2" android:numColumns="@integer/int_led_array_columns" android:layoutDirection="0" android:paddingStart="@dimen/custom_layout_panding_left_right" android:paddingEnd="@dimen/custom_layout_panding_left_right" />
+    </LinearLayout>
+    <View android:background="@color/divider" android:layout_width="-1" android:layout_height="@dimen/list_divider_height" android:layout_marginTop="@dimen/preview_layout_margin" android:layout_marginStart="@dimen/led_cover_main_divider_view_margin" android:layout_marginEnd="@dimen/led_cover_main_divider_view_margin" />
+    <ListView android:id="@id/lv_contact" android:layout_width="-1" android:layout_height="-2" android:divider="@connectionresult/SUCCESS" android:dividerHeight="0px" />
+    <include android:id="@id/ln_no_item" layout="@layout/led_caller_list_is_empty_footer" />
+</LinearLayout>

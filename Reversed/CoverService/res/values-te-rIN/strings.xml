@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">డౌన్‌లోడ్ చేయి</string>
+    <string name="sview_led_cover_download_feature_summary">LED వీక్షణ కవర్ కోసం అదనపు ఫీచర్‌లను డౌన్‌లోడ్ చేసి, ఇన్‌స్టాల్ చేయండి. మీరు మీ స్వంత LED చిహ్నాలను సృష్టించవచ్చు మరియు వాటిని మీ నోటిఫికేషన్ చిహ్నాల వలె సెట్ చేయవచ్చు. వాటిని తర్వాత డౌన్‌లోడ్ చేయడానికి, సెట్టింగ్‌లు > అధునాతన ఫీచర్‌లు > యాక్సెసరీలు > LED వీక్షణ కవర్‌కి వెళ్లి, ఆపై “అదనపు ఫీచర్‌లను డౌన్‌లోడ్ చేయి” ఎంచుకోండి.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">అదనపు ఫీచర్‌లను డౌన్‌లోడ్ చేయండి</string>
+</resources>

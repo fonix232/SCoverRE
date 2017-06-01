@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">ჩამოტვირთვა</string>
+    <string name="sview_led_cover_download_feature_summary">ჩამოტვირთეთ და დააინსტალირეთ LED View Cover-ის დამატებითი ფუნქციები. შეგიძლიათ, შექმნათ საკუთარი LED ღილაკები და დააყენოთ ისინი, როგორც შეტყობინების ღილაკები. თუ გსურთ მოგვიანებით ჩამოტვირთოთ ისინი, გახსენით „პარამეტრები“ > „დამატებითი ფუნქციები“ > „აქსესუარები“ > LED View Cover, შემდეგ კი აირჩიეთ „დამატებითი ფუნქციების ჩამოტვირთვა“.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">დამატებითი ფუნქციების ჩამოტვირთვა</string>
+</resources>

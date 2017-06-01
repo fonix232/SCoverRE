@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">下載</string>
+    <string name="sview_led_cover_download_feature_summary">為 LED 感應皮套下載並安裝其他功能。您可以建立專屬的 LED 圖示並將其設為通知圖示。若要稍後下載，請前往 [設定] > [進階功能] > [配件] > [LED 感應皮套]，然後選擇 [下載其他功能]。</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">下載並安裝 LED 感應皮套專用附加功能。可建立專屬 LED 圖示並將其設為通知圖示。若要於稍後下載，請前往 [設定] > [配件] > [LED 感應皮套]，然後選擇 [下載附加功能]。</string>
+    <string name="sview_led_cover_download_feature_title">下載其他功能</string>
+</resources>

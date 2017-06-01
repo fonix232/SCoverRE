@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">ଡାଉନଲୋଡ୍</string>
+    <string name="sview_led_cover_download_feature_summary">LED କଭର୍ ଦର୍ଶନ ପାଇଁ ଅତିରିକ୍ତ ବୈଶିଷ୍ଟ୍ୟଗୁଡିକ ଡାଉନଲୋଡ୍ ଏବଂ ସଂସ୍ଥାପନ କରନ୍ତୁ। ଆପଣ ଆପଣଙ୍କ ନିଜ LED ଆଇକନଗୁଡିକ ସୃଷ୍ଟି କରିପାରନ୍ତି ଏବଂ ସେଗୁଡିକୁ ଆପଣଙ୍କ ବିଜ୍ଞପ୍ତି ଆଇକନ୍ ଭାବେ ସେଟ୍ କରିପାରିବେ। ସେଗୁଡିକ ଡାଉନଲୋଡ୍ କରିବା ପରେ, ସେଟିଂସ୍ > ବିକଶିତ ବୈଶିଷ୍ଟ୍ୟଗ > ସରଞ୍ଜାମଗୁଡିକ > LED କଭର୍ ଦର୍ଶନକୁ ଯାଆନ୍ତୁ, ତାପରେ “ଡାଉନଲୋଡ୍” ଅତିରିକ୍ତ ବୈଶିଷ୍ଟ୍ୟଗୁଡିକ ଚୟନ କରନ୍ତୁ।</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">ଅତିରିକ୍ତ ବୈଶିଷ୍ଟ୍ୟଗୁଡିକ ଡାଉନଲୋଡ୍</string>
+</resources>

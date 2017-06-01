@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">ดาวน์โหลด</string>
+    <string name="sview_led_cover_download_feature_summary">ดาวน์โหลดและติดตั้งคุณสมบัติเพิ่มเติมของ LED View Cover คุณสามารถสร้างไอคอน LED ของคุณเอง และตั้งค่าให้เป็นไอคอนการแจ้งเตือนได้ หากต้องการดาวน์โหลดในภายหลัง ให้ไปที่ การตั้งค่า > คุณสมบัติขั้นสูง > อุปกรณ์เสริม> LED view cover จากนั้นเลือก “ดาวน์โหลด” คุณสมบัติเพิ่มเติม</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Download and install additional features for LED View Cover. You can create your own LED icons and set them as your notification icons. To download them later, go to Settings > Accessories > LED View Cover, then select Download additional features.</string>
+    <string name="sview_led_cover_download_feature_title">ดาวน์โหลดคุณสมบัติเพิ่มเติม</string>
+</resources>

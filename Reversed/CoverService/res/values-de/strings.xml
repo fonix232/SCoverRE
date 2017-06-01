@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monotype_dialog_button">Herunterladen</string>
+    <string name="sview_led_cover_download_feature_summary">Laden Sie zusätzliche Funktionen für LED View Cover herunter und installieren Sie sie. Sie können Ihre eigenen LED-Symbole erstellen und als Ihre Benachrichtigungssymbole festlegen. Um sie später herunterzuladen, wählen Sie „Zusätzliche Funktionen herunterladen“ unter „Einstellungen > Erweiterte Funktionen > Zubehör > LED View Cover“ aus.</string>
+    <string name="sview_led_cover_download_feature_summary_vzw">Laden Sie zusätzliche Funktionen für LED View Cover herunter und installieren Sie sie. Sie können Ihre eigenen LED-Symbole erstellen und als Ihre Benachrichtigungssymbole festlegen. Um sie später herunterzuladen, wählen Sie „Zusätzliche Funktionen herunterladen“ unter „Einstellungen > Zubehör > LED View Cover“ aus.</string>
+    <string name="sview_led_cover_download_feature_title">Herunterladen zusätzlicher Funktionen</string>
+</resources>
